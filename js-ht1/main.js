@@ -1,6 +1,6 @@
 'use strict';
 let start = 'hello';
-let a = 'owu';
+let p = 'owu';
 let b = 'com';
 let c = 'ua';
 let first = 1;
@@ -13,7 +13,7 @@ let age = 16;
 let x = age > num;
 let y = age < num;
 console.log(start);
-console.log(a);
+console.log(p);
 console.log(b);
 console.log(c);
 console.log(first);
