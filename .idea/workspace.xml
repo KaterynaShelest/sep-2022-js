@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc19bc6c-384f-4929-882b-2bb9661011c8" name="Changes" comment="js Home Task 1" />
+    <list default="true" id="cc19bc6c-384f-4929-882b-2bb9661011c8" name="Changes" comment="js Home Task 1">
+      <change afterPath="$PROJECT_DIR$/js-ht2/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js-ht2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,15 +40,25 @@
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/sep-2022-js/js-ht2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
       "directory",
       "module"
+    ],
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "JavaScript"
     ]
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\IdeaProjects\sep-2022-js\js-ht2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -55,6 +69,9 @@
       <updated>1667285707769</updated>
       <workItem from="1667285709143" duration="3496000" />
       <workItem from="1667296955495" duration="3077000" />
+      <workItem from="1667307403298" duration="630000" />
+      <workItem from="1667478479234" duration="217000" />
+      <workItem from="1667478706030" duration="3533000" />
     </task>
     <task id="LOCAL-00001" summary="js Home Task 1">
       <created>1667306699773</created>
@@ -70,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667307172850</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="js Home Task 1">
+      <created>1667307432217</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667307432217</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
