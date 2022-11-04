@@ -1,7 +1,17 @@
 'use strict';
 // - Створити масив, наповнити його 10 елементами будь-якого типу, вивести кожен елемент в консоль
 
-let arr = ['name', 'kate', 'age', 27, 'woman', true, [1, 2, 3, 4, 5], 'autumn', 1994, false];
+let arr = [];
+arr[0] = 'name';
+arr[1] = 'kate';
+arr[2] = 'age';
+arr[3] = 27;
+arr[4] = 'woman';
+arr[5] = true;
+arr[6] = [1, 2, 3, 4, 5];
+arr[7] = 'autumn';
+arr[8] = 1994;
+arr[9] = false;
 console.log(arr[0]);
 console.log(arr[1]);
 console.log(arr[2]);
@@ -40,10 +50,9 @@ let book11 = {
     title: 'summer',
     pageCount: 120,
     genre: 'novel',
-    authors: ['1','2','3'],
-    '1':{name: 'anton', age: 34, },
-    '2':{name: 'vasya', age: 31, },
-    '3':{name: 'misha', age: 47, }
+    authors: [{name: 'anton', age: 34, },
+   {name: 'vasya', age: 31, },
+   {name: 'misha', age: 47, }]
 
 }
 console.log(book11);
@@ -51,20 +60,18 @@ let book21 = {
     title: 'winter',
     pageCount: 500,
     genre: 'detective',
-    authors: ['1','2','3'],
-    '1':{name: 'anton', age: 34, },
-    '2':{name: 'vasya', age: 31, },
-    '3':{name: 'misha', age: 47, }
+    authors: [{name: 'anton', age: 34, },
+        {name: 'vasya', age: 31, },
+        {name: 'misha', age: 47, }]
 }
 console.log(book21);
 let book31 = {
     title: 'spring',
     pageCount: 400,
     genre: 'fantasy',
-    authors: ['1','2','3'],
-    '1':{name: 'anton', age: 34, },
-    '2':{name: 'vasya', age: 31, },
-    '3':{name: 'misha', age: 47, }
+    authors: [{name: 'anton', age: 34, },
+        {name: 'vasya', age: 31, },
+        {name: 'misha', age: 47, }]
 }
 console.log(book31);
 // - Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password. Вивести в консоль пароль кожного користувача

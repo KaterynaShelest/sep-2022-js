@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc19bc6c-384f-4929-882b-2bb9661011c8" name="Changes" comment="js Home Task 1">
-      <change afterPath="$PROJECT_DIR$/js-ht2/index1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-ht2/main.js" afterDir="false" />
+    <list default="true" id="cc19bc6c-384f-4929-882b-2bb9661011c8" name="Changes" comment="js Home Task 2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js-ht2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js-ht2/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +34,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Admin/IdeaProjects/sep-2022-js/js-ht2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin/IdeaProjects/sep-2022-js/js-ht2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "directory",
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;directory&quot;,
+      &quot;module&quot;
     ],
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "JavaScript"
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;JavaScript&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\IdeaProjects\sep-2022-js\js-ht2" />
@@ -71,7 +70,11 @@
       <workItem from="1667296955495" duration="3077000" />
       <workItem from="1667307403298" duration="630000" />
       <workItem from="1667478479234" duration="217000" />
-      <workItem from="1667478706030" duration="3533000" />
+      <workItem from="1667478706030" duration="3945000" />
+      <workItem from="1667498727183" duration="598000" />
+      <workItem from="1667585650502" duration="76000" />
+      <workItem from="1667586587999" duration="121000" />
+      <workItem from="1667586839813" duration="707000" />
     </task>
     <task id="LOCAL-00001" summary="js Home Task 1">
       <created>1667306699773</created>
@@ -94,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667307432217</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="js Home Task 2">
+      <created>1667482437384</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667482437384</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +123,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="js Home Task 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="js Home Task 1" />
+    <MESSAGE value="js Home Task 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="js Home Task 2" />
   </component>
 </project>
