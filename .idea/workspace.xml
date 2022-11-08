@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc19bc6c-384f-4929-882b-2bb9661011c8" name="Changes" comment="js Home Task 2/corrected">
-      <change afterPath="$PROJECT_DIR$/js-ht3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js-ht3/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cc19bc6c-384f-4929-882b-2bb9661011c8" name="Changes" comment="js Home Task 3/corrected" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +76,7 @@
       <workItem from="1667586839813" duration="978000" />
       <workItem from="1667844821391" duration="641000" />
       <workItem from="1667888947666" duration="2034000" />
-      <workItem from="1667891002967" duration="8790000" />
+      <workItem from="1667891002967" duration="9171000" />
     </task>
     <task id="LOCAL-00001" summary="js Home Task 1">
       <created>1667306699773</created>
@@ -117,7 +113,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667587797693</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="js Home Task 2/corrected">
+      <created>1667900422760</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667900422760</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,6 +141,7 @@
     <MESSAGE value="js Home Task 1" />
     <MESSAGE value="js Home Task 2" />
     <MESSAGE value="js Home Task 2/corrected" />
-    <option name="LAST_COMMIT_MESSAGE" value="js Home Task 2/corrected" />
+    <MESSAGE value="js Home Task 3/corrected" />
+    <option name="LAST_COMMIT_MESSAGE" value="js Home Task 3/corrected" />
   </component>
 </project>
